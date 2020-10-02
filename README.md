@@ -4,9 +4,7 @@
 
 [MapaMental_1](https://github.com/ValeriaUrbina/Mineria_de_datos/blob/master/MapaMental_1_1799959%20(1).pdf)
 
-[Ejercicios_PatronesSecuenciales](https://github.com/ValeriaUrbina/Mineria_de_datos/blob/master/EJERCICIOS1_PatronesSecuenciales.ipynb)
-
-
+[Ejercicios_PatronesSecuencialesCODIGO](https://github.com/ValeriaUrbina/Mineria_de_datos/blob/master/EJERCICIOS1_PatronesSecuenciales.ipynb)
 
 [Ejericios_PatronesSecuencialesPDF](https://github.com/MarleneCalderon/Mineria_de_Datos/blob/master/Ejercicios%201.pdf)
 
