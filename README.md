@@ -1,4 +1,5 @@
 # Mineria_de_datos
+FASE1
 
 [Presentación_PatronesSecuenciales](https://github.com/ValeriaUrbina/Mineria_de_datos/blob/master/Presentaci%C3%B3n_%7BPatrones-Secuenciales%7D_.pdf)
 
@@ -11,3 +12,9 @@
 [Resumenes_1799959](https://github.com/ValeriaUrbina/Mineria_de_datos/blob/master/Resumenes_1799959.pdf)
 
 [MapaMental_II](https://github.com/ValeriaUrbina/Mineria_de_datos/blob/master/MapaMental_2_%7B1799959%7D.pdf)
+
+
+FASE 2
+
+[Analisis BD_1799959](https://github.com/ValeriaUrbina/Mineria_de_datos/blob/master/AnalisisBD_1799959.pdf)
+
