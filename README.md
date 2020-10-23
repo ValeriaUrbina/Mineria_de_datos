@@ -18,3 +18,5 @@ FASE 2
 
 [Analisis BD_1799959](https://github.com/ValeriaUrbina/Mineria_de_datos/blob/master/AnalisisBD_1799959.pdf)
 
+[PhytonBásico_1799959](https://github.com/ValeriaUrbina/Mineria_de_datos/blob/master/PhytonB%C3%A1sico_1799959.ipynb)
+
