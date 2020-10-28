@@ -20,3 +20,5 @@ FASE 2
 
 [PhytonBásico_1799959](https://github.com/ValeriaUrbina/Mineria_de_datos/blob/master/PhytonB%C3%A1sico_1799959.ipynb)
 
+[Avance1-PIA_Equipo6_003](https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/Avance1-PIA_Equipo6_003Viernes.pdf)
+
