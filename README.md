@@ -22,3 +22,4 @@ FASE 2
 
 [Avance1-PIA_Equipo6_003](https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/Avance1-PIA_Equipo6_003Viernes.pdf)
 
+[Ejercicios python mineria de datos](https://github.com/ValeriaUrbina/Mineria_de_datos/blob/master/Ejercicios%20Python%20miner%C3%ADa%20de%20datos.ipynb)
