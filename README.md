@@ -22,4 +22,4 @@ FASE 2
 
 [Avance1-PIA_Equipo6_003](https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/Avance1-PIA_Equipo6_003Viernes.pdf)
 
-[P1 y P2, ejercicios de manipulación y visualización] (https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/Ejercicios%20Python%20miner%C3%ADa%20de%20datos_6_003.ipynb)
+[P1 y P2, ejercicios de manipulación y visualización](https://github.com/ulisessolismoises/Mineria_de_datos/blob/master/Ejercicios%20Python%20miner%C3%ADa%20de%20datos_6_003.ipynb)
